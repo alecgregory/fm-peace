@@ -2,8 +2,8 @@
 1. Use the FileMaker "Create New..." command
 1. Name the file according to the following convention
   * Data file:
-    * <SolutionName> \_Data
+    * _SolutionName_ \_Data
   * Controller file:
-    * <SolutionName>\_Controller
+    * _SolutionName_\_Controller
   * Interface file:
-    * <SolutionName>\_<InterfaceDescription>\_Interface
+    * _SolutionName_\_*InterfaceDescription*\_Interface
