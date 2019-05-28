@@ -1,13 +1,7 @@
 # fm-peace
 ## Introduction
-fm-peace is an extremely modular approach to building FileMaker solutions from scratch.
-## A requirement
-fm-peace requires that each solution must consist of:
-* Exactly 1 Data file
-* At least 1 Controller file
-* At least 1 Interface file
-## Creating files
-fm-peace provides a short, simple sets of instructions for creating files from scratch. The instructions are split into three parts:
-1. A Clean Start
-1. External Sources
-1. Shared Resources
+fm-peace is an extremely modular approach to building FileMaker solutions from scratch. It comprises
+
+* Modules
+* A style guide for building and using modules
+* A style guide for building solutions

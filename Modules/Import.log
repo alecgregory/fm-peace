@@ -1,0 +1,8 @@
+﻿Timestamp	Filename	Error	Message
+2019-05-27 18:20:10.397 -0700	error-definitions-filemaker-peace.fmp12	0	Import operations started
+2019-05-27 18:20:17.485 -0700	error-definitions-filemaker-peace.fmp12	0	Import of tables from file “ConfigData_FileMakerErrorDefinitions_Data.fmp12” started
+2019-05-27 18:20:17.488 -0700	pfm_config	0	fields imported : 4
+2019-05-27 18:20:17.489 -0700	error-definitions-filemaker-peace.fmp12	0	tables imported : 1
+2019-05-27 18:20:17.489 -0700	error-definitions-filemaker-peace.fmp12	0	Import completed
+2019-05-27 18:20:48.575 -0700	error-definitions-filemaker-peace.fmp12	0	Import operations committed
+2019-05-27 18:20:48.575 -0700	error-definitions-filemaker-peace.fmp12	0	==================================================================
