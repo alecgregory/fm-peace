@@ -19,7 +19,7 @@ File access protection must be turned off.
 
 #### 1.1.4.2 Protecting modules (optional)
 
-Optionally, modules can be protected. Protected modules must have a password set a password on the [Full Access] account. The account name on the [Full Access] account can be changed from the default. An account using a privilege set that allows access to the module must be included. The module file must be set to log in with this account automatically.
+Optionally, modules can be protected. Protected modules must have a password on the [Full Access] account. The account name on the [Full Access] account can be changed from the default. An account using a privilege set that allows access to the module must be included. The module file must be set to log in with this account automatically.
 
 ### 1.1.5 Creating files
 Files should be created using FileMaker's Create New... wizard. The Blank option should be used for creating the file
