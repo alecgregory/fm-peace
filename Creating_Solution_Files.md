@@ -12,6 +12,7 @@
 1. Change the value list sort order to value list name
 1. Change the external data source sort order to name
 1. Change the custom function list sort to name
+1. Change the custom menu set list sort to menu set name
 1. Change the custom menu list sort to menu set name
 1. Delete the Enlightened theme from the theme list
 1. Close the file
