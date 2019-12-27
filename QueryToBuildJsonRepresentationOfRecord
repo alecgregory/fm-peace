@@ -1,0 +1,34 @@
+Let (
+	[
+		~tableName = "AuditLog"
+	];
+	List (
+		"JSONSetElement (";
+		Char ( 9 )
+			& "\"{}\";¶";
+		ExecuteSQL (
+			"SELECT
+				'	[ GetFieldName ( '
+					|| FieldName
+					|| ' ); '
+					|| FieldName
+					|| '; JSONString ]'
+			FROM
+				FileMaker_Fields
+			WHERE
+				TableName = ?
+			AND
+				FieldType NOT LIKE ?
+			AND
+				FieldClass = ?
+			ORDER BY
+				Lower ( FieldName )";
+			"";
+			";¶";
+			~tableName;
+			"global%";
+			"Normal"
+		);
+		")"
+	)
+)
